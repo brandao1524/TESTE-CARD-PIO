@@ -1,0 +1,81 @@
+  <!DOCTYPE html>
+ <html lang="pt-br">
+ <head>
+     <meta charset="UTF-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>RESTAURANTE</title>
+     <link rel="stylesheet" href="css/style.css">   
+   
+ </head>
+ <body>
+  <header>
+   <nav>
+  <div class="container"> 
+     <a href="index.html" class="logo">
+   <h1>RESTAURANTE</h1>  
+ </a>
+ 
+ <div class="menu">
+  <ul>
+  <li>
+ <a href="sobre .html">SOBRE</a>       
+  </li>    
+  </ul>   
+ </div>
+  </div>     
+   </nav> 
+   <section class="here">
+    <div class="container">
+    <form id="formsearch">
+      <input type="search"  placeholder="O que deseja comer hoje" name="inputsearch" id="inputsearch"> 
+ </form>    
+ </div>   
+ </section>  
+  </header> 
+ 
+ <main>
+  <div class="container">
+  <h3>PRATOS</h3>
+  <section class="pratos" >
+    <article class="prato">
+    <img src="imagem/m1.jpg" alt="prato 01">
+    <h4>Prato 01</h4>
+    <h4>R$20.00</h4>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis et sapiente dolorum dicta nulla similique voluptas at obcaecati esse quod iure quia necessitatibus minima, explicabo sunt, nisi voluptatum quidem atque?</p>
+    <button type="button">Quero este prato</button>
+    </article>
+    
+    <article class="prato">
+      <img src="imagem/m2.jpg" alt="prato 02">
+      <h4>Prato 02</h4>
+      <h4>R$26.00</h4>
+      <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis et sapiente dolorum dicta nulla similique voluptas at obcaecati esse quod iure quia necessitatibus minima, explicabo sunt, nisi voluptatum quidem atque?</p>
+      <button type="button">Quero este prato</button>
+      </article>
+      <article class="prato">
+        <img src="imagem/m3.jpg" alt="prato 03">
+        <h4>Prato 03</h4>
+        <h4>R$30.00</h4>
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis et sapiente dolorum dicta nulla similique voluptas at obcaecati esse quod iure quia necessitatibus minima, explicabo sunt, nisi voluptatum quidem atque?</p>
+        <button type="button">Quero este prato</button>
+        </article>
+        <article class="prato">
+          <img src="imagem/m4.jpg" alt="prato 04">
+          <h4>Prato 04</h4>
+          <h4>R$35.00</h4>
+          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis et sapiente dolorum dicta nulla similique voluptas at obcaecati esse quod iure quia necessitatibus minima, explicabo sunt, nisi voluptatum quidem atque?</p>
+          <button type="button">Quero este prato</button>
+          </article>   
+     </section>  
+     </div> 
+    </main>
+    
+      </div>
+      <footer>
+        <div class="container" >
+           <p>  BRANDÃO SILVA </p>      
+        </div> 
+       </body>
+       </html>
+       

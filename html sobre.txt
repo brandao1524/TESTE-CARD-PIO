@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Restaurante Brandão</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">  
+
+</head>
+<body>
+ <header>
+  <nav>
+ <div class="container"> 
+  <a href="index.html" class="logo">
+    <h1>RESTAURANTE</h1>  
+</a>
+
+<div class="menu">
+ <ul>
+ <li>
+<a href="sobre .html">SOBRE</a>       
+ </li>    
+ </ul>   
+</div>
+ </div>     
+  </nav> 
+<section class="here-sobre">
+<div class="container">
+  <h2>Nossa história do restaurante do Brandão </h2>  
+</div>
+</section>
+ </header>
+</body>
+</html>
+<main>
+ <div class="container">
+ <section>
+ <h3>Nossa história</h3>
+ <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit cupiditate cum reprehenderit sed expedita nam quisquam dolorem, laborum debitis reiciendis atque modi veritatis sapiente blanditiis nisi placeat saepe omnis quis?</p>
+ <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vero eligendi maxime nihil vitae ut ipsum cum officiis officia autem nostrum, inventore quidem maiores, ducimus blanditiis optio adipisci beatae quod qui.</p>
+ <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vero eligendi maxime nihil vitae ut ipsum cum officiis officia autem nostrum, inventore quidem maiores, ducimus blanditiis optio adipisci beatae quod qui.</p>
+ </section>
+
+ <section>  
+ <h3>Nossa história</h3>
+ <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste sunt dolore perferendis molestias voluptate, sequi aliquid deleniti numquam aut aperiam cupiditate dolores, deserunt, corrupti architecto! Tempora porro vitae eveniet numquam.</p>
+ <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit cupiditate cum reprehenderit sed expedita nam quisquam dolorem, laborum debitis reiciendis atque modi veritatis sapiente blanditiis nisi placeat saepe omnis quis?</p>
+ <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vero eligendi maxime nihil vitae ut ipsum cum officiis officia autem nostrum, inventore quidem maiores, ducimus blanditiis optio adipisci beatae quod qui.</p>
+</section>
+
+<section>
+<h3>Nossa história</h3>
+<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit cupiditate cum reprehenderit sed expedita nam quisquam dolorem, laborum debitis reiciendis atque modi veritatis sapiente blanditiis nisi placeat saepe omnis quis?</p>
+<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit cupiditate cum reprehenderit sed expedita nam quisquam dolorem, laborum debitis reiciendis atque modi veritatis sapiente blanditiis nisi placeat saepe omnis quis?</p>
+<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit cupiditate cum reprehenderit sed expedita nam quisquam dolorem, laborum debitis reiciendis atque modi veritatis sapiente blanditiis nisi placeat saepe omnis quis?</p>
+</section>
+
+<section>
+ <h3>Nossa história</h3>
+ <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo eum rerum iusto, quo fuga optio laudantium magni. Earum laboriosam in, blanditiis autem eum voluptatum cupiditate facilis, officiis ratione, natus repudiandae.</p> ipsum dolor sit amet consectetur adipisicing elit. Numquam, maiores maxime. Ullam possimus nesciunt quasi perspiciatis cumque quaerat, velit eaque magni. Dolorem nam soluta necessitatibus alias corrupti saepe voluptatum suscipit?</p>
+ <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae reprehenderit velit, doloremque asperiores blanditiis vitae deserunt repudiandae? Est consectetur itaque iusto laudantium quas laborum deserunt, optio, iure consequuntur sapiente saepe.</p>
+ <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit cupiditate cum reprehenderit sed expedita nam quisquam dolorem, laborum debitis reiciendis atque modi veritatis sapiente blanditiis nisi placeat saepe omnis quis?</p>
+</section>    
+</div>   
+</main>
+<footer>
+ <div class="container" >
+    <p> BRANDÃO SILVA </p>      
+ </div> 
+</footer>
+</body>
+</html>

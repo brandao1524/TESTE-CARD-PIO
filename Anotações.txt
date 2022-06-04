@@ -1,0 +1,2 @@
+Tentamos realizar site com cardápio simples que o cliente conseguiria realizar pedido dos pratos que deseja.
+lembrando que um projeto teste para aprimorar conhecimento.
